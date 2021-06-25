@@ -8,6 +8,6 @@ package com.allen.controller;
  */
 public class UserController {
     public static void main(String[] args) {
-        System.out.println("user controller");
+        System.out.println("user controller111");
     }
 }
